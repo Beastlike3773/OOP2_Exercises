@@ -10,14 +10,19 @@ import javafx.stage.Stage;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class DisplayHex extends Application {
+
+    public static final Logger LOGGER = Logger.getLogger(DisplayHex.class.getName());
     public static void main(String[] args) {
         launch(args);
     }
 
     @Override
     public void start(Stage stage) throws Exception {
+        LOGGER.setLevel(Level.ALL);
         List<String> args = this.getParameters().getRaw();
         AnchorPane root = new AnchorPane();
         Scene scene = new Scene(root, 600, 300);
@@ -26,8 +31,8 @@ public class DisplayHex extends Application {
         root.getChildren().add(label);
 
         TextArea ta = new TextArea();
-        ta.setPrefHeight(scene.getHeight() - label.getHeight());
-        ta.setPrefWidth(scene.getWidth());
+        ta.minHeightProperty().bind(root.heightProperty());
+        ta.minWidthProperty().bind(root.widthProperty());
         String content = readFileText(args.get(0));
         ta.setText(content);
         root.getChildren().add(ta);
@@ -42,6 +47,7 @@ public class DisplayHex extends Application {
     public String readFileText(String filepath) throws IOException{
         FileInputStream in = null;
         String result = "";
+        LOGGER.log(Level.INFO, "Reading file as text: " + filepath);
 
         try{
             in = new FileInputStream(filepath);
@@ -60,6 +66,7 @@ public class DisplayHex extends Application {
     public String readFileHex(String filepath) throws IOException{
         FileInputStream in = null;
         String result = "";
+        LOGGER.log(Level.INFO, "Reading file as hex: " + filepath);
 
         try{
             in = new FileInputStream(filepath);
