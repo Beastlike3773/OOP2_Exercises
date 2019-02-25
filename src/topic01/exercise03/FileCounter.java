@@ -34,12 +34,15 @@ public class FileCounter {
             Scanner sc = new Scanner(r)){
             while(sc.hasNextLine()){
                 String line = sc.nextLine();
+                characterCount += line.length() + 1;
                 String[] words = line.split("\\s");
                 wordCount += words.length;
                 lineCount++;
-                for(String word : words){
-                    if(word.contains("at")) atCount++;
-                    characterCount += word.length();
+                String help = line;
+                int i = 0;
+                while((i = help.indexOf("at")) > 0 ){
+                    atCount++;
+                    help = help.substring(i + 1);
                 }
             }
         }
