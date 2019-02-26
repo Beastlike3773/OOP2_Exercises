@@ -17,4 +17,4 @@ Value at: 15 = 60
 Value at: 16 = 70
 Value at: 17 = 80
 Value at: 18 = 90
-Value at: 19 = 100
+Value at: 19 = 12312
