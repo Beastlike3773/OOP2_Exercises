@@ -50,9 +50,8 @@ public class ReadCSV {
                     default:
                         break;
                 }
-
-                movies.add(m);
             }
+            movies.add(m);
         }
 
         for(Movie m : movies){
