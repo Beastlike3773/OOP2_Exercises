@@ -78,7 +78,4 @@ public class ReadCSV {
     public static int readYear(String[] line, int patternNr){
         return Integer.parseInt(line[patternNr]);
     }
-
-
-
 }
