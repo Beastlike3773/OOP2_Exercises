@@ -2,7 +2,9 @@ package topic02.exercise02;
 
 import java.io.IOException;
 import java.nio.file.Files;
+import java.nio.file.InvalidPathException;
 import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
@@ -37,6 +39,9 @@ public class NioListOfIntegers {
         }
         try {
             Files.write(Paths.get(PATH + "OutFile.txt"), lines);
+        } catch(InvalidPathException e){
+            System.err.println("Path is not valid!");
+            LOGGER.log(Level.SEVERE, e.getMessage(), e);
         } catch(IOException e){
             System.err.println("IOException when writing to OutFile.txt!");
             LOGGER.log(Level.SEVERE, e.getMessage(), e);

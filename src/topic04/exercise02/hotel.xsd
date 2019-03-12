@@ -1,0 +1,25 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="hotel" type="hotelType">
+    <xs:annotation>
+      <xs:documentation>Restrict the stars to values between * and *****</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="hotelType">
+    <xs:sequence>
+      <xs:element type="xs:byte" name="single-room">
+        <xs:annotation>
+          <xs:documentation>each element should occur only once  only positive numbers are allowed</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element type="xs:byte" name="double-room"/>
+      <xs:element type="xs:byte" name="suite"/>
+      <xs:element type="xs:string" name="lounge">
+        <xs:annotation>
+          <xs:documentation>optional empty element</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="stars"/>
+  </xs:complexType>
+</xs:schema>
+

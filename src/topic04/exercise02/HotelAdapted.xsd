@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified"
+	elementFormDefault="qualified"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="hotel">
+		<xs:annotation>
+			<xs:documentation>Restrict the stars to values between 1 and 7
+			</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element type="xs:positiveInteger" name="single-room">
+					<xs:annotation>
+						<xs:documentation>each element should occur only once only
+							positive numbers are allowed</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element type="xs:positiveInteger" name="double-room" />
+				<xs:element type="xs:positiveInteger" name="suite" />
+				<xs:element type="xs:string" name="lounge" fixed=""
+					minOccurs="0" maxOccurs="1">
+					<xs:annotation>
+						<xs:documentation>optional empty element</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute name="stars">
+				<xs:simpleType>
+					<xs:restriction base="xs:byte">
+						<xs:minInclusive value="1"></xs:minInclusive>
+						<xs:maxInclusive value="7"></xs:maxInclusive>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

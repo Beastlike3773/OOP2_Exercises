@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BankAccount id="372094857349202">
+    <balance>1000</balance>
+    <owner>
+        <name>
+            <firstname>Yummy</firstname>
+            <lastname>Dummy</lastname>
+        </name>
+        <address>
+            <state>Florida</state>
+            <city>Orlando</city>
+            <zip>FL 32806</zip>
+            <street>1808 Delaney Ave</street>
+            <country>USA</country>
+            <coordinates>
+                <N>28 31 17.1</N>
+                <W>81 22 21.3</W>
+            </coordinates>
+        </address>
+    </owner>
+    <type>savings account</type>
+    <status>nice mode</status>
+</BankAccount>

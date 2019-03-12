@@ -49,7 +49,6 @@ public class ReadCSV2 {
 
             for (int i = 0; i < lines.size() - 1; i++) {
                 Movie m = new Movie();
-                // If the Id tag was in the file and the value at this spot was not empty
                 if (csvValueMap.containsKey("id") && !csvValueMap.get("id").get(i).equals("")) {
                     m.setId(csvValueMap.get("id").get(i));
                 }

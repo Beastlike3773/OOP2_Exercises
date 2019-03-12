@@ -15,7 +15,6 @@ import static java.nio.file.StandardCopyOption.*;
 public class NIOAPI {
     public static final Logger LOGGER = Logger.getLogger(NIOAPI.class.getName());
     public static void main(String[] args){
-        Integer.parseInt("12");
         LOGGER.setLevel(Level.ALL);
         if(args.length >= 2) {
             String command = args[0];
@@ -26,7 +25,7 @@ public class NIOAPI {
                     try {
                         target = Paths.get(args[2]);
                         Files.copy(source, target, REPLACE_EXISTING);
-                    } catch (Exception e) {
+                    } catch (IOException e) {
                         LOGGER.log(Level.SEVERE, e.getMessage());
                     }
                     break;
