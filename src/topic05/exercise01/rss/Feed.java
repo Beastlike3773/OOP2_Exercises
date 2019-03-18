@@ -35,6 +35,7 @@ public final class Feed {
     return description;
   }
 
+
   public void setDescription(String description) {
     this.description = description;
   }
@@ -42,6 +43,8 @@ public final class Feed {
   public List<FeedMessage> getMessages() {
     return entries;
   }
+
+  public void setMessages(List<FeedMessage> entries) {this.entries = entries;}
 
   @Override
   public String toString() {
