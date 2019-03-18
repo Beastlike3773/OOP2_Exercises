@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+>
+
+<channel>
+<title>20 Minuten | Front</title>
+<link>http://www.20min.ch</link>
+<description>Nachrichten&#xFC;berblick</description>
+<language>de-ch</language>
+
+<image>
+<title>20 Minuten</title>
+<url>http://www.20min.ch/2010/img/navigation/20min_logo.png</url>
+<link>http://www.20min.ch</link>
+<width>77</width>
+<height>101</height>
+<description>20 Minuten Logo</description>
+</image>
+<item>
+<title>Entf&#xFC;hrte Kinder zur&#xFC;ck: Was die Mutter geschafft hat, ist ein Wunder</title>
+<link>http://www.20min.ch/schweiz/news/story/20898191</link>
+<description>Nach &#xFC;ber vier Jahren sind die entf&#xFC;hrten Nuran (7) und Sarah (9) wieder bei ihrer Mutter. Ein Ausnahmefall.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/20898191</guid>
+<pubDate>Tue, 12 Mar 2019 04:40:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/7d9649/T470,230/images/content/2/0/8/20898191/12/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Schwierige R&#xFC;ckkehr: &#xAB;Sie nehmen in Kauf, ihr Kind nie mehr zu sehen&#xBB;</title>
+<link>http://www.20min.ch/schweiz/news/story/15356505</link>
+<description>Eine Mutter konnte nach viereinhalb Jahren ihre zwei Kinder in die Schweiz zur&#xFC;ckholen. Eine Seltenheit. Ein &#xDC;berblick &#xFC;ber die M&#xF6;glichkeiten.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/15356505</guid>
+<pubDate>Tue, 12 Mar 2019 04:40:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/52b069/T470,230/images/content/1/5/3/15356505/28/teaserbreit.jpg" />
+</item>
+<item>
+<title>Flugzeugungl&#xFC;ck in &#xC4;thiopien: Boeing gibt bei 737-MAX-Flotte Softwareproblem zu</title>
+<link>http://www.20min.ch/ausland/news/story/15345099</link>
+<description>Ein Passagierflugzeug der Ethiopian Airlines ist abgest&#xFC;rzt. Die Maschine war von Addis Abeba unterwegs nach Kenia. 157 Personen sind ums Leben gekommen.</description>
+<guid isPermaLink="true">http://www.20min.ch/ausland/news/story/15345099</guid>
+<pubDate>Tue, 12 Mar 2019 01:53:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/d49870/T470,230/images/content/1/5/3/15345099/61/teaserbreit.jpg" />
+</item>
+<item>
+<title>Schalker Jungvater: &#xAB;Es geht nicht mehr nur um Embolo und Fussball&#xBB;</title>
+<link>http://www.20min.ch/sport/fussball/story/31964276</link>
+<description>Nati-St&#xFC;rmer Breel Embolo ist fit und trifft wieder f&#xFC;r Schalke. In der Familie ist mittlerweile seine kleine Tochter der Star. </description>
+<guid isPermaLink="true">http://www.20min.ch/sport/fussball/story/31964276</guid>
+<pubDate>Tue, 12 Mar 2019 05:25:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/8a6729/T470,230/images/content/3/1/9/31964276/11/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Nach Doku: Michael Jacksons Sohn Blanket spricht nicht mehr</title>
+<link>http://www.20min.ch/people/international/story/20685565</link>
+<description>Michael Jackson wird in der Doku &#xAB;Leaving Neverland&#xBB; sexueller Missbrauch von Minderj&#xE4;hrigen vorgeworfen. Darunter leidet vor allem Blanket Jackson, das j&#xFC;ngste Kind des toten Popstars. </description>
+<guid isPermaLink="true">http://www.20min.ch/people/international/story/20685565</guid>
+<pubDate>Tue, 12 Mar 2019 04:42:02 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/314d2c/T470,230/images/content/2/0/6/20685565/13/teaserbreit.jpg" />
+</item>
+<item>
+<title>SVP Aargau best&#xE4;tigt: Luzi Stamm ist in &#xE4;rztlicher Behandlung</title>
+<link>http://www.20min.ch/schweiz/news/story/17662225</link>
+<description>SVP-Nationalrat Luzi Stamm ist am Montag trotz angek&#xFC;ndigter Auszeit wieder in Bern aufgetaucht. Wie die SVP Aargau schreibt, wurde er nun in &#xE4;rztliche Behandlung &#xFC;bergeben.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/17662225</guid>
+<pubDate>Mon, 11 Mar 2019 19:32:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/340104/T470,230/images/content/1/7/6/17662225/28/teaserbreit.jpg" />
+</item>
+<item>
+<title>Sponsored: Macht dich dein Sitzplatz krank?</title>
+<link>http://www.20min.ch/native/stories/story/24802430</link>
+<description>Falsches Sitzen kann gef&#xE4;hrlich werden und sogar zu Deformationen am Skelett f&#xFC;hren. Eine Ergonomie-Beratung hilft dabei, dauerhaft vorzubeugen. Wir zeigen dir die wichtigsten Tipps f&#xFC;r die ges&#xFC;ndeste Sitzposition.</description>
+<guid isPermaLink="true">http://www.20min.ch/native/stories/story/24802430</guid>
+<pubDate>Mon, 11 Mar 2019 06:22:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/98d3d0/T470,230/images/content/2/4/8/24802430/17/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Britin in Guatemala vermisst: Leiche der 23-j&#xE4;hrigen Backpackerin gefunden</title>
+<link>http://www.20min.ch/panorama/news/story/29656068</link>
+<description>Vor sechs Tagen ist die Backpackerin Catherine Shaw in Guatemala spurlos verschwunden. Nun wurde sie leblos aufgefunden.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/29656068</guid>
+<pubDate>Mon, 11 Mar 2019 22:06:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/6117ff/T470,230/images/content/2/9/6/29656068/7/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Vergewaltigung in Italien: Freispruch, weil Frau &#xAB;m&#xE4;nnlich aussieht&#xBB;</title>
+<link>http://www.20min.ch/panorama/news/story/11307640</link>
+<description>Zwei M&#xE4;nner sollen in Italien im Jahr 2013 eine Frau vergewaltigt haben. Ein Gericht hat sie freigesprochen, da sie die Frau gar nicht &#xAB;attraktiv&#xBB; gefunden h&#xE4;tten.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/11307640</guid>
+<pubDate>Tue, 12 Mar 2019 06:04:17 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/5b7942/T470,230/images/content/1/1/3/11307640/7/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Was f&#xFC;r eine Ironie: Der Beweis, dass alle Hipster gleich aussehen</title>
+<link>http://www.20min.ch/community/stories/story/26784016</link>
+<description>Ein Mann beschwert sich &#xFC;ber einen &#xAB;Hipster sehen alle gleich aus&#xBB;-Artikel und behauptet, das Model auf dem Bild zu sein. Bis er merkt, dass er es gar nicht ist.</description>
+<guid isPermaLink="true">http://www.20min.ch/community/stories/story/26784016</guid>
+<pubDate>Tue, 12 Mar 2019 04:42:56 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/fb580b/T470,230/images/content/2/6/7/26784016/13/teaserbreit.jpg" />
+</item>
+<item>
+<title>Doppelg&#xE4;nger-Ger&#xFC;cht: Ist das wirklich Melania an Trumps Seite?</title>
+<link>http://www.20min.ch/ausland/news/story/25828685</link>
+<description>Ein Besuch des Pr&#xE4;sidentenpaares im US-Bundesstaat Alabama hat Spekulationen ausgel&#xF6;st, wonach statt Melania eine Doppelg&#xE4;ngerin an Donald Trumps Seite steht. </description>
+<guid isPermaLink="true">http://www.20min.ch/ausland/news/story/25828685</guid>
+<pubDate>Mon, 11 Mar 2019 16:11:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/bb44cf/T470,230/images/content/2/5/8/25828685/9/teaserbreit.gif" />
+</item>
+<item>
+<title>Gesundheit: 4 Tipps bei juckender Kopfhaut</title>
+<link>https://www.friday-magazine.ch/articles/juckende-kopfhaut-was-tun</link>
+<description>Eine juckende oder gar schmerzende Kopfhaut kann einem richtig zu schaffen machen. Was man dagegen tun kann, erfahrt ihr hier.</description>
+<pubDate>Tue, 12 Mar 2019 04:42:38 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/951da7/T470,230/images/content/1/9/4/19421500/1/teaserbreit.jpg" />
+</item>
+<item>
+<title>Sorge um Meinungsfreiheit: Die ETH plant eine eigene Hauspolizei</title>
+<link>http://www.20min.ch/schweiz/zuerich/story/17142029</link>
+<description>Mit einem &#xAB;polizeinahen&#xBB; Sicherheitsdienst will sich die ETH vor demonstrierenden Studenten sch&#xFC;tzen. Studenten sind ern&#xFC;chtert.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/zuerich/story/17142029</guid>
+<pubDate>Tue, 12 Mar 2019 04:41:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/01788c/T470,230/images/content/1/7/1/17142029/12/teaserbreit.jpg" />
+</item>
+<item>
+<title>Nancy Pelosi: &#xAB;Trump ist es einfach nicht wert&#xBB;</title>
+<link>http://www.20min.ch/ausland/news/story/24011782</link>
+<description>US-Oppositionschefin Nancy Pelosi hat sich gegen ein Amtsenthebungsverfahren gegen Pr&#xE4;sident Donald Trump ausgesprochen.</description>
+<guid isPermaLink="true">http://www.20min.ch/ausland/news/story/24011782</guid>
+<pubDate>Tue, 12 Mar 2019 02:20:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/48225c/T470,230/images/content/2/4/0/24011782/5/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Sponsored: Die Suppe f&#xFC;r kalte Wintertage</title>
+<link>http://www.20min.ch/native/stories/story/11021150</link>
+<description>Bei Trudi und Nicole auf der H&#xE4;ngela-H&#xFC;tte hoch &#xFC;ber Vals lernt Claudio, worauf es bei der Zubereitung einer B&#xFC;ndner Gerstensuppe ankommt.</description>
+<guid isPermaLink="true">http://www.20min.ch/native/stories/story/11021150</guid>
+<pubDate>Sun, 10 Mar 2019 23:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/30f231/T470,230/images/content/1/1/0/11021150/19/teaserbreit.jpg" />
+</item>
+<item>
+<title>Ach du Schei**e!: Die schlimmsten Modedesign-Fails</title>
+<link>http://www.20min.ch/community/stories/story/16030880</link>
+<description>Ob unvorteilhafte Farbkombination oder unangebrachte Motive &#x2013; beim Entwerfen dieser Kleidungsst&#xFC;cke ging so einiges schief.</description>
+<guid isPermaLink="true">http://www.20min.ch/community/stories/story/16030880</guid>
+<pubDate>Mon, 11 Mar 2019 18:31:46 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/1710da/T470,230/images/content/1/6/0/16030880/5/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Wetter in der Schweiz: Der Winter macht heute Pause</title>
+<link>http://www.20min.ch/schweiz/news/story/24159058</link>
+<description>Nachdem es lange ungew&#xF6;hnlich warm war, fallen die Temperaturen wieder. Am Morgen ist es auf den Strassen noch rutschig, dann kommt die Sonne.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/24159058</guid>
+<pubDate>Tue, 12 Mar 2019 04:19:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/7f61ff/T470,230/images/content/2/4/1/24159058/45/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Wettbwerb: Wir schicken dich mit Begleitung nach Bangkok!</title>
+<link>http://www.20min.ch/panorama/wettbewerbe/story/27310739</link>
+<description>Nimm jetzt am Ferien-Gewinnspiel von&#xA0;Thai Airways&#xA0;und&#xA0;suggest.ch AG&#xA0;teil und gewinne eine Reise f&#xFC;r zwei Personen nach Bangkok im Wert von 3000 Franken!</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/wettbewerbe/story/27310739</guid>
+<pubDate>Wed, 6 Mar 2019 09:56:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/584cf6/T470,230/images/content/2/7/3/27310739/16/teaserbreit.jpg" />
+</item>
+<item>
+<title>Texas: Laden wird nach traurigem Tweet &#xFC;berrannt</title>
+<link>http://www.20min.ch/panorama/news/story/11545546</link>
+<description>Weil niemand zur Er&#xF6;ffnung des Donut-Ladens seines Vaters kam, postete Billy By ein Bild seines Vaters auf Twitter. Am Schluss war alles ausverkauft.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/11545546</guid>
+<pubDate>Mon, 11 Mar 2019 20:14:54 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/95d0ef/T470,230/images/content/1/1/5/11545546/7/teaserbreit.jpg" />
+</item>
+<item>
+<title>S&#xFC;dafrika: Riesiger Wal verschluckt beinahe Taucher</title>
+<link>http://www.20min.ch/panorama/news/story/26628280</link>
+<description>Eigentlich wollte er vor der K&#xFC;ste von Port Elizabeth in S&#xFC;dafrika einen Hai fotografieren. Dann sp&#xFC;rte der erfahrene Taucher einen Druck auf den H&#xFC;ften.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/26628280</guid>
+<pubDate>Mon, 11 Mar 2019 18:10:26 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/e78ac1/T470,230/images/content/2/6/6/26628280/4/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Paid Post: Alpenzauber im Allg&#xE4;uer Bergparadies</title>
+<link>http://www.20min.ch/paidpost/stories/story/19455988</link>
+<description>Melden Sie sich jetzt kostenlos bei Secret Escapes an und entdecken Sie besten Country Escapes des Jahres. Erleben Sie beispielsweise eine Nacht im romantischen Hotel am Hopfensee mit Schloss Neuschwanstein in unmittelbarer N&#xE4;he.</description>
+<guid isPermaLink="true">http://www.20min.ch/paidpost/stories/story/19455988</guid>
+<pubDate>Mon, 11 Mar 2019 10:16:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/e207dd/T470,230/images/content/1/9/4/19455988/21/teaserbreit.jpg" />
+</item>
+<item>
+<title>D&#xFC;sseldorfer Food-Kurier: Imbissbestellung rettet 72-J&#xE4;hrigem das Leben</title>
+<link>http://www.20min.ch/panorama/news/story/30993139</link>
+<description>Kurierfahrer liefern nicht nur verschiedenste Leckereien bis vor die Haust&#xFC;r, nein, sie k&#xF6;nnen auch zu wahren Helden werden. So viel steht jetzt fest.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/30993139</guid>
+<pubDate>Mon, 11 Mar 2019 20:48:51 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/1b901c/T470,230/images/content/3/0/9/30993139/11/teaserbreit.jpg" />
+</item>
+<item>
+<title>Basler Fasnacht: Hier versuchen Passanten, dem Pferd aufzuhelfen</title>
+<link>http://www.20min.ch/schweiz/basel/story/15495446</link>
+<description>Schrecksekunde am Montagnachmittag am Cort&#xE8;ge: Ein Pferd ist auf einer Metallplatte ausgerutscht und gest&#xFC;rzt. Tiersch&#xFC;tzer sind entsetzt.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/basel/story/15495446</guid>
+<pubDate>Mon, 11 Mar 2019 18:01:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/6e7dc9/T470,230/images/content/1/5/4/15495446/11/teaserbreit.jpg" />
+</item>
+<item>
+<title>Auto-Salon Genf 2019: Die Schw&#xE4;nzer beleben den Salon</title>
+<link>http://www.20min.ch/motor/autosalon/story/20823343</link>
+<description>Einige grosse Hersteller fehlen in diesem Jahr in Genf &#x2013; daf&#xFC;r wurde Platz frei f&#xFC;r zahlreiche neue Aussteller, die etwas mehr Farbe in die Palexpo-Hallen bringen.</description>
+<guid isPermaLink="true">http://www.20min.ch/motor/autosalon/story/20823343</guid>
+<pubDate>Mon, 11 Mar 2019 11:00:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/226790/T470,230/images/content/2/0/8/20823343/4/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Auto-Salon Genf 2019: Auto-Papst Dudenh&#xF6;ffer: &#xAB;Der Wandel ist Realit&#xE4;t&#xBB;</title>
+<link>http://www.20min.ch/motor/autosalon/story/18068722</link>
+<description>Der deutsche Verkehrswissenschafter Ferdinand Dudenh&#xF6;ffer sieht Genf als Wendepunkt der Mobilit&#xE4;t.</description>
+<guid isPermaLink="true">http://www.20min.ch/motor/autosalon/story/18068722</guid>
+<pubDate>Mon, 11 Mar 2019 04:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/1da41e/T470,230/images/content/1/8/0/18068722/8/teaserbreit.jpg" />
+</item>
+<item>
+<title>LKW-Unfall mit 4 Toten: &#xAB;Ich w&#xE4;re lieber selber gestorben&#xBB;</title>
+<link>http://www.20min.ch/schweiz/news/story/31217779</link>
+<description>Ein Lastwagenfahrer, der vor drei Jahren einen t&#xF6;dlichen Unfall im Tessin verursacht hatte, wurde jetzt freigesprochen. Er leidet an einer Krankheit.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/31217779</guid>
+<pubDate>Mon, 11 Mar 2019 18:34:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/c54126/T470,230/images/content/3/1/2/31217779/2/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Fl&#xFC;chtlinge : Kranke Asylsuchende verz&#xF6;gern Verfahren</title>
+<link>http://www.20min.ch/schweiz/news/story/29014412</link>
+<description>Einige Asylsuchende sind zu krank f&#xFC;r schnelle Verfahren. B&#xFC;rgerliche Politiker fordern mehr H&#xE4;rte. Gegner f&#xFC;rchten um die Menschenw&#xFC;rde. </description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/29014412</guid>
+<pubDate>Mon, 11 Mar 2019 11:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/a7bec4/T470,230/images/content/2/9/0/29014412/13/teaserbreit.jpg" />
+</item>
+<item>
+<title>Aufruf: Ist Ihr Kind ins Ausland entf&#xFC;hrt worden?</title>
+<link>http://www.20min.ch/schweiz/news/story/10680832</link>
+<description>Was bedeutet es, wenn ein Kind nach den Ferien mit einem Elternteil nicht mehr nach Hause zur&#xFC;ckkommt? Wir suchen Betroffene.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/10680832</guid>
+<pubDate>Mon, 11 Mar 2019 10:56:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/196fe2/T470,230/images/content/1/0/6/10680832/10/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Tinder-Schwindler: &#xAB;Viele Frauen tr&#xE4;umen vom Luxusleben&#xBB;</title>
+<link>http://www.20min.ch/schweiz/news/story/22170467</link>
+<description>Der Tinder-Schwindler Shimon Hayut hat mehrere Frauen um den Finger gewickelt. Der forensische Psychiater Josef Sachs erkl&#xE4;rt, wie ihm das gelang.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/22170467</guid>
+<pubDate>Mon, 11 Mar 2019 10:07:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/b7bd43/T470,230/images/content/2/2/1/22170467/10/teaserbreit.jpg" />
+</item>
+<item>
+<title>Petition: Schweizer protestieren gegen &#xAB;Gender-Unfug&#xBB;</title>
+<link>http://www.20min.ch/schweiz/news/story/28322125</link>
+<description>Deutsche Intellektuelle warnen vor der Verunstaltung der Sprache durch &#xAB;Gender-Unfug&#xBB;. Die Kritik findet auch in der Schweiz Anklang.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/28322125</guid>
+<pubDate>Mon, 11 Mar 2019 04:37:33 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/f49f8f/T470,230/images/content/2/8/3/28322125/29/teaserbreit.jpg" />
+</item>
+<item>
+<title>Sturmtief: Eberhard erreichte Spitzen von bis zu 158 km/h</title>
+<link>http://www.20min.ch/schweiz/news/story/22345355</link>
+<description>Am Sonntag erreichte das Sturmtief Eberhard seinen H&#xF6;hepunkt. In einigen Teilen der Schweiz herrschte Warnstufe Rot.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/22345355</guid>
+<pubDate>Sun, 10 Mar 2019 17:09:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/9f9399/T470,230/images/content/2/2/3/22345355/12/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Versoix GE: Ehepaar stirbt bei Horrorunfall auf A1</title>
+<link>http://www.20min.ch/schweiz/romandie/story/17250621</link>
+<description>Am Sonntagmorgen ist ein Auto in Versoix GE gegen eine Br&#xFC;ckenwand geprallt. Die beiden Insassen, ein 36-j&#xE4;hriger Mann und seine 33-j&#xE4;hrige Frau, kamen ums Leben.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/romandie/story/17250621</guid>
+<pubDate>Sun, 10 Mar 2019 12:54:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/1f5273/T470,230/images/content/1/7/2/17250621/7/teaserbreit.jpg" />
+</item>
+<item>
+<title>Leser-Fotos: 1 Bild sagt mehr als 1000 Worte</title>
+<link>http://www.20min.ch/schweiz/news/story/29439510</link>
+<description>Wenn es darum geht, absurde Alltagssituationen abzulichten, macht den 20-Minuten-Leserinnen und -Lesern niemand etwas vor.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/news/story/29439510</guid>
+<pubDate>Tue, 1 Jan 2019 10:46:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/2abe70/T470,230/images/content/2/9/4/29439510/903/teaserbreit.jpg" />
+</item>
+<item>
+<title>Sitterdorf TG: Lieblingsziege soll Bock mit Kot anlocken</title>
+<link>http://www.20min.ch/schweiz/ostschweiz/story/20697617</link>
+<description>&#xDC;ber zwei Wochen dauerte es, bis Monika Aliesch ihren Geissbock Kilian wieder in den Stall f&#xFC;hren konnte. W&#xE4;hrend der Suche erhielt sie dutzende Hinweise aus der Bev&#xF6;lkerung. </description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/ostschweiz/story/20697617</guid>
+<pubDate>Tue, 12 Mar 2019 04:42:25 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/4aa320/T470,230/images/content/2/0/6/20697617/19/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Basler Fasnacht: So sieht eine R&#xE4;ppli-Dusche in Slow-Motion aus</title>
+<link>http://www.20min.ch/schweiz/basel/story/12178638</link>
+<description>Die Fasnacht in der Region ist lanciert. Im 20-Minuten-Ticker erfahren Sie alles Aktuelle und alle News &#x2013; vom Chienb&#xE4;se bis zum Cort&#xE8;ge, vom Morge- bis zum &#xC4;ndstraich.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/basel/story/12178638</guid>
+<pubDate>Mon, 11 Mar 2019 18:07:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/2f22d2/T470,230/images/content/1/2/1/12178638/29/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Schwamendingen ZH: Tram ger&#xE4;t an Haltestelle in Brand</title>
+<link>http://www.20min.ch/schweiz/zuerich/story/24867958</link>
+<description>In Schwamendingen ist an einer Haltestelle ein Tram in Brand geraten. Polizei und Feuerwehr sind vor Ort.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/zuerich/story/24867958</guid>
+<pubDate>Mon, 11 Mar 2019 17:39:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/f651ce/T470,230/images/content/2/4/8/24867958/23/teaserbreit.jpg" />
+</item>
+<item>
+<title>Wettbewerb: Lust aufs Skifahren oder Biken im B&#xFC;ndnerland?</title>
+<link>http://www.20min.ch/schweiz/zuerich/sponsored/story/15984932</link>
+<description>Mit der Topcard bist du in drei B&#xFC;ndner Top-Destinationen flexibel unterwegs. Profitiere jetzt vom attraktiven Aktionspreis der Karte und gewinne gleich noch eines von drei Bike-Wochenenden im Wert von total 5000 Franken.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/zuerich/sponsored/story/15984932</guid>
+<pubDate>Sun, 3 Mar 2019 23:00:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/895084/T470,230/images/content/1/5/9/15984932/18/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Letzigrund-Stadion: GC-Ultras trauern um Neonazi-Hooligan</title>
+<link>http://www.20min.ch/schweiz/zuerich/story/13976554</link>
+<description>Mit einem Transparent wurde in der GC-Fankurve am Samstag um den verstorbenen deutschen Hooligan und Neonazi Thomas Haller getrauert.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/zuerich/story/13976554</guid>
+<pubDate>Mon, 11 Mar 2019 17:31:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/ad1999/T470,230/images/content/1/3/9/13976554/42/teaserbreit.jpg" />
+</item>
+<item>
+<title>Kanton Bern : Kommen nach den Sozial- nun auch Steuerdetektive?</title>
+<link>http://www.20min.ch/schweiz/bern/story/25395057</link>
+<description>Der Regierungsrat soll pr&#xFC;fen, ob im Kanton Bern Steuerdetektive eingesetzt werden k&#xF6;nnen: So will es der Grosse Rat. Daf&#xFC;r m&#xFC;sste allerdings Bundesrecht ge&#xE4;ndert werden.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/bern/story/25395057</guid>
+<pubDate>Mon, 11 Mar 2019 17:09:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/fbb07c/T470,230/images/content/2/5/3/25395057/11/teaserbreit.jpg" />
+</item>
+<item>
+<title>90&#x27;000 Euro: AfD-Parteichef gibt Hilfe aus der Schweiz zu</title>
+<link>http://www.20min.ch/ausland/news/story/26681033</link>
+<description>Er habe von der Schweizer Werbeagentur Goal AG Wahlkampfhilfe im Gegenwert von 90&#x27;000 Euro erhalten, gesteht AfD-Chef J&#xF6;rg Meuthen.</description>
+<guid isPermaLink="true">http://www.20min.ch/ausland/news/story/26681033</guid>
+<pubDate>Tue, 12 Mar 2019 03:26:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/88583d/T470,230/images/content/2/6/6/26681033/11/teaserbreit.jpg" />
+</item>
+<item>
+<title>Venezuela: Parlament erkl&#xE4;rt wegen Stromausfalls Notstand</title>
+<link>http://www.20min.ch/ausland/news/story/20105309</link>
+<description>Das vom venezolanischen Pr&#xE4;sidenten Maduro entmachtete Parlament stimmte f&#xFC;r ein Dekret, um die Stromversorgung wieder herzustellen.</description>
+<guid isPermaLink="true">http://www.20min.ch/ausland/news/story/20105309</guid>
+<pubDate>Tue, 12 Mar 2019 02:39:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/5067d2/T470,230/images/content/2/0/1/20105309/12/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>J&#xFC;disches Museum: Lebensl&#xE4;nglich f&#xFC;r den Attent&#xE4;ter von Br&#xFC;ssel</title>
+<link>http://www.20min.ch/ausland/news/story/10649497</link>
+<description>Der IS-R&#xFC;ckkehrer Mehdi Nemmouche erschoss 2014 im J&#xFC;dischen Museum von Br&#xFC;ssel vier Menschen. Nun wurde das Strafmass bekannt.</description>
+<guid isPermaLink="true">http://www.20min.ch/ausland/news/story/10649497</guid>
+<pubDate>Tue, 12 Mar 2019 00:57:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/ee4c79/T470,230/images/content/1/0/6/10649497/9/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>May in Strassburg: London meldet Durchbruch bei Brexit-Verhandlungen</title>
+<link>http://www.20min.ch/ausland/news/story/25595418</link>
+<description>Die britische Premierministerin Theresa May konnte sich mit EU-Vertretern einigen. Sie war in letzter Minute nach Strassburg gereist.</description>
+<guid isPermaLink="true">http://www.20min.ch/ausland/news/story/25595418</guid>
+<pubDate>Mon, 11 Mar 2019 22:57:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/869e56/T470,230/images/content/2/5/5/25595418/16/teaserbreit.jpg" />
+</item>
+<item>
+<title>Paid Post: 7 Anti-Aging-Produkte, die unter die Haut gehen</title>
+<link>http://www.20min.ch/paidpost/stories/story/19170764</link>
+<description>Das Altern l&#xE4;sst sich nicht aufhalten, aber vorbeugen. Wer seine hart erlachten F&#xE4;ltchen ausb&#xFC;geln will, ist hier genau richtig.</description>
+<guid isPermaLink="true">http://www.20min.ch/paidpost/stories/story/19170764</guid>
+<pubDate>Mon, 11 Mar 2019 23:00:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/4c3fc6/T470,230/images/content/1/9/1/19170764/17/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Algerien: Pr&#xE4;sident Bouteflika verzichtet auf Kandidatur</title>
+<link>http://www.20min.ch/ausland/news/story/16192092</link>
+<description>Algeriens Pr&#xE4;sident Bouteflika (82) verzichtet auf eine erneute Kandidatur. Dies gab die staatliche Nachrichtenagentur bekannt.</description>
+<guid isPermaLink="true">http://www.20min.ch/ausland/news/story/16192092</guid>
+<pubDate>Mon, 11 Mar 2019 17:43:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/5ab2a6/T470,230/images/content/1/6/1/16192092/8/teaserbreit.jpg" />
+</item>
+<item>
+<title>  : Die Bilder des Tages</title>
+<link>http://www.20min.ch/ausland/news/story/21261077</link>
+<description>Die Bilder des Tages zeigen t&#xE4;glich die besten Fotos aus aller Welt. Von sehenswerten Schnappsch&#xFC;ssen &#xFC;ber grosse Ereignisse bis hin zu den wichtigsten Momentaufnahmen.</description>
+<guid isPermaLink="true">http://www.20min.ch/ausland/news/story/21261077</guid>
+<pubDate>Fri, 2 Mar 2018 12:13:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/26908d/T470,230/images/content/2/1/2/21261077/3339/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Halb nackt und krank: 5-J&#xE4;hrige aus zugem&#xFC;llter Wohnung gerettet</title>
+<link>http://www.20min.ch/panorama/news/story/10235485</link>
+<description>In Moskau entdeckte die Polizei ein M&#xE4;dchen, das allein in einer Wohnung auf einem Abfallberg sass. Das unterern&#xE4;hrte Kind hat nie gelernt zu reden. </description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/10235485</guid>
+<pubDate>Tue, 12 Mar 2019 06:40:43 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/e8c74a/T470,230/images/content/1/0/2/10235485/10/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Dach st&#xFC;rzt auf Trottoir: Fussg&#xE4;nger hat mehr als 1000 Schutzengel</title>
+<link>http://www.20min.ch/panorama/news/story/18333295</link>
+<description>Eine Videokamera zeichnete im Osten Londons auf, wie herabst&#xFC;rzende Ziegel und jede Menge Schutt einen Passanten um Haaresbreite verfehlten.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/18333295</guid>
+<pubDate>Mon, 11 Mar 2019 18:31:12 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/e5f68e/T470,230/images/content/1/8/3/18333295/7/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Milchs&#xE4;urebakterien von Models: So schmeckt das Vagina-Bier</title>
+<link>http://www.20min.ch/panorama/news/story/29246514</link>
+<description>Eine polnische Brauerei hat ein Bier entwickelt, das mit den Milchs&#xE4;urebakterien aus der Vagina von Unterw&#xE4;schemodels g&#xE4;rt. &#xAB;Le Matin&#xBB; hat das Bier probiert.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/29246514</guid>
+<pubDate>Mon, 11 Mar 2019 18:16:33 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/f0159b/T470,230/images/content/2/9/2/29246514/13/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Paid Post: Das perfekte Duo f&#xFC;r eine spannende Auszeit</title>
+<link>http://www.20min.ch/paidpost/stories/story/24375669</link>
+<description>Mit Hotelcard und Mobility k&#xF6;nnen Sie das Winterwunderland Schweiz von seiner reizvollsten Seite entdecken: spontan, unkompliziert und zu einem erschwinglichen Preis.</description>
+<guid isPermaLink="true">http://www.20min.ch/paidpost/stories/story/24375669</guid>
+<pubDate>Sun, 4 Mar 2018 23:00:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/3d29e0/T470,230/images/content/2/4/3/24375669/24/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Auf Highway: LKW reisst Hebeb&#xFC;hne mit Arbeiter um</title>
+<link>http://www.20min.ch/panorama/news/story/25412371</link>
+<description>Auf einer Autobahn in Texas versch&#xE4;tzte sich ein LKW-Fahrer bei der H&#xF6;he seines Fahrzeuges.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/25412371</guid>
+<pubDate>Mon, 11 Mar 2019 16:08:44 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/6e35e9/T470,230/images/content/2/5/4/25412371/4/teaserbreit.jpg" />
+</item>
+<item>
+<title>Zoo in Arizona: Frau will Selfie schiessen &#x2013; von Jaguar attackiert</title>
+<link>http://www.20min.ch/panorama/news/story/13883654</link>
+<description>Um ein besseres Selfie schiessen zu k&#xF6;nnen, kletterte eine Frau in einem Zoo in Arizona &#xFC;ber eine Abschrankung. Sie wollte so n&#xE4;her an einen Jaguar herankommen. </description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/13883654</guid>
+<pubDate>Mon, 11 Mar 2019 09:30:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/7644f1/T470,230/images/content/1/3/8/13883654/13/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Absturz in &#xC4;thiopien: Mann lebt, weil er Anschlussflug verpasste</title>
+<link>http://www.20min.ch/panorama/news/story/16426359</link>
+<description>157 Menschen sind beim Flugzeugabsturz in &#xC4;thiopien ums Leben gekommen. Ein Mann hatte viel Gl&#xFC;ck: Er verpasste den Flug.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/news/story/16426359</guid>
+<pubDate>Mon, 11 Mar 2019 05:43:43 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/49d0b3/T470,230/images/content/1/6/4/16426359/2/teaserbreit.jpg" />
+</item>
+<item>
+<title>Gleichstellung im Topmanagement: UBS k&#xFC;rzt Frauen bei Mutterschaft den Bonus</title>
+<link>http://www.20min.ch/finance/news/story/24174568</link>
+<description>Mitarbeiterinnen aus dem Wealth Management Switzerland werfen der UBS vor, unfair behandelt worden zu sein. Die Grossbank hat keine Kenntnisse solcher F&#xE4;lle.</description>
+<guid isPermaLink="true">http://www.20min.ch/finance/news/story/24174568</guid>
+<pubDate>Mon, 11 Mar 2019 20:46:36 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/03d5b9/T470,230/images/content/2/4/1/24174568/12/teaserbreit.jpg" />
+</item>
+<item>
+<title>Flugzeugabsturz: Was bedeutet der Boeing-Crash f&#xFC;r die Schweiz?</title>
+<link>http://www.20min.ch/finance/news/story/31850852</link>
+<description>Der abgest&#xFC;rzte Flugzeugtyp Boeing 737 Max 8 wird auch nach Z&#xFC;rich eingesetzt. Die wichtigsten Informationen f&#xFC;r Passagiere. </description>
+<guid isPermaLink="true">http://www.20min.ch/finance/news/story/31850852</guid>
+<pubDate>Mon, 11 Mar 2019 11:16:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/53e5dd/T470,230/images/content/3/1/8/31850852/28/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Auto-Salon Genf 2019: Er putzt die Autos 40- bis 50-mal am Tag</title>
+<link>http://www.20min.ch/finance/news/story/10839110</link>
+<description>Ohne sie gl&#xE4;nzt am Auto-Salon gar nichts: Autopfleger wie Alexander Woeller m&#xFC;ssen die Karossen fast alle zehn Minuten polieren. </description>
+<guid isPermaLink="true">http://www.20min.ch/finance/news/story/10839110</guid>
+<pubDate>Sun, 10 Mar 2019 17:49:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/adaec8/T470,230/images/content/1/0/8/10839110/12/teaserbreit.jpg" />
+</item>
+<item>
+<title>&#xAB;Ruck zuck, zack zack!&#xBB;: Raiffeisen gibt Tipps f&#xFC;r Umgang mit Deutschen</title>
+<link>http://www.20min.ch/finance/news/story/22809079</link>
+<description>Die Raiffeisen-Bank hat Extra-Tipps f&#xFC;r Gesch&#xE4;fte mit Deutschen. Das l&#xF6;st Kritik aus.</description>
+<guid isPermaLink="true">http://www.20min.ch/finance/news/story/22809079</guid>
+<pubDate>Sat, 9 Mar 2019 08:12:52 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/972357/T470,230/images/content/2/2/8/22809079/25/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>&#xAB;Unkontrollierter Gebrauch&#xBB;: Anleger fordert Twitter-Verbot f&#xFC;r Elon Musk</title>
+<link>http://www.20min.ch/finance/news/story/27244305</link>
+<description>Neuer &#xC4;rger f&#xFC;r Tesla-Chef Elon Musk: Ein Grossinvestor in den USA will das Twittern des mitteilungsfreudigen Tech-Milliard&#xE4;rs gerichtlich einschr&#xE4;nken lassen.</description>
+<guid isPermaLink="true">http://www.20min.ch/finance/news/story/27244305</guid>
+<pubDate>Sat, 9 Mar 2019 04:20:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/56333d/T470,230/images/content/2/7/2/27244305/18/teaserbreit.jpg" />
+</item>
+<item>
+<title>Postauto-Aff&#xE4;re: Fedpol ermittelt gegen weiteren Post-Manager</title>
+<link>http://www.20min.ch/finance/news/story/13339325</link>
+<description>Die Polizei fasst in der Postauto-Aff&#xE4;re auch den ehemaligen Finanzchef des Post-Konzerns, Pascal Koradi, ins Auge. </description>
+<guid isPermaLink="true">http://www.20min.ch/finance/news/story/13339325</guid>
+<pubDate>Fri, 8 Mar 2019 12:07:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/41c539/T470,230/images/content/1/3/3/13339325/19/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>&#xAB;FuW jetzt&#xBB; App: Zielsetzungen richtig interpretieren</title>
+<link>https://www.fuw.ch/app-sharing/1457754/?openincontroller</link>
+<description>Anleger sollten trotz kurzfristiger Prognosen die langfristige Strategie der Unternehmen nicht aus den Augen verlieren.</description>
+<pubDate>Tue, 12 Mar 2019 06:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/858cf9/T470,230/images/content/1/5/7/15791627/2/teaserbreit.jpg" />
+</item>
+<item>
+<title>Sport kompakt: Schweizer NHL-Crack auf Rekordkurs</title>
+<link>http://www.20min.ch/sport/weitere/story/17954313</link>
+<description>Capela gl&#xE4;nzt +++ Zverev wieder einmal fr&#xFC;h gescheitert +++ Roma siegt glanzlos bei Ranieri-Einstand +++ Superbowl-MVP zu Jacksonville +++</description>
+<guid isPermaLink="true">http://www.20min.ch/sport/weitere/story/17954313</guid>
+<pubDate>Tue, 12 Mar 2019 06:59:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/018f50/T470,230/images/content/1/7/9/17954313/1156/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Belinda Bencic: Nach dem 10. Sieg nun gegen die Nummer 1</title>
+<link>http://www.20min.ch/sport/tennis/story/26144688</link>
+<description>Die beste Schweizerin trifft in Indian Wells auf Naomi Osaka &#x2013; und verpasst dadurch das Duell zwischen Federer und Wawrinka.</description>
+<guid isPermaLink="true">http://www.20min.ch/sport/tennis/story/26144688</guid>
+<pubDate>Tue, 12 Mar 2019 01:05:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/8e74cc/T470,230/images/content/2/6/1/26144688/11/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Auf der Erfolgswelle: Adi H&#xFC;tter mit Frankfurt weiter im Hoch</title>
+<link>http://www.20min.ch/sport/fussball/story/18298462</link>
+<description>Zum Abschluss der 25. Runde setzte sich Eintracht Frankfurt bei Fortuna D&#xFC;sseldorf mit 3:0 durch und wahrte damit seine Ungeschlagenheit 2019.</description>
+<guid isPermaLink="true">http://www.20min.ch/sport/fussball/story/18298462</guid>
+<pubDate>Mon, 11 Mar 2019 21:53:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/7b66bc/T470,230/images/content/1/8/2/18298462/7/teaserbreit.jpg" />
+</item>
+<item>
+<title>Herzensangelegenheit: &#xAB;Der Pr&#xE4;sident rief mich an, nun bin ich hier&#xBB;</title>
+<link>http://www.20min.ch/sport/fussball/story/14976065</link>
+<description>Zin&#xE9;dine Zidane ist &#xAB;sehr gl&#xFC;cklich&#xBB;, zur&#xFC;ck bei Real Madrid zu sein. Er wolle den Club wieder &#xAB;dorthin bringen, wo er hingeh&#xF6;rt&#xBB;.</description>
+<guid isPermaLink="true">http://www.20min.ch/sport/fussball/story/14976065</guid>
+<pubDate>Mon, 11 Mar 2019 20:46:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/01801c/T470,230/images/content/1/4/9/14976065/20/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Nach Trainingssturz: Seuchensaison findet vorzeitiges Ende</title>
+<link>http://www.20min.ch/sport/ski/story/27575784</link>
+<description>Nach einer Verletzung im Training kann Lara Gut-Behrami nicht am Weltcup-Final starten. Bei einem Sturz erlitt die Tessinerin schwere Prellungen am R&#xFC;cken.</description>
+<guid isPermaLink="true">http://www.20min.ch/sport/ski/story/27575784</guid>
+<pubDate>Mon, 11 Mar 2019 16:17:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/e2d366/T470,230/images/content/2/7/5/27575784/11/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Offiziell: Zidane kehrt zu Real zur&#xFC;ck</title>
+<link>http://www.20min.ch/sport/fussball/story/10737300</link>
+<description>Der Erfolgstrainer kehrt nach neun Monaten Pause als Trainer zu Real Madrid zur&#xFC;ck. Der Franzose l&#xF6;st Santiago Solari ab.</description>
+<guid isPermaLink="true">http://www.20min.ch/sport/fussball/story/10737300</guid>
+<pubDate>Mon, 11 Mar 2019 14:40:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/43bf5d/T470,230/images/content/1/0/7/10737300/35/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>&#xAB;Mehrere 10&#x27;000 Franken&#xBB;: Was ist Lizas pl&#xF6;tzliche Bekanntheit wert?</title>
+<link>http://www.20min.ch/people/schweiz/story/12022214</link>
+<description>Nach einer Nacht mit Neymar nahm Liza Britos Followerzahl rasant zu. Welche Auswirkungen hat das? Social-Media-Experte Fabian Pl&#xFC;ss ordnet ein.</description>
+<guid isPermaLink="true">http://www.20min.ch/people/schweiz/story/12022214</guid>
+<pubDate>Mon, 11 Mar 2019 19:35:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/cef370/T470,230/images/content/1/2/0/12022214/18/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Zum f&#xFC;nften Mal Ja: J.Los Verlobungsringe sind &#xFC;ber 11 Millionen wert</title>
+<link>http://www.20min.ch/people/international/story/13219211</link>
+<description>Jennifer Lopez hat sich am Wochenende zum f&#xFC;nften Mal verlobt. Wir wagen einen Blick auf die Verflossenen &#x2013; und zeigen, wie viel die einzelnen Klunker gekostet haben.</description>
+<guid isPermaLink="true">http://www.20min.ch/people/international/story/13219211</guid>
+<pubDate>Mon, 11 Mar 2019 16:09:03 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/462375/T470,230/images/content/1/3/2/13219211/30/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>People &#x26; Gossip: &#xAB;Captain Marvel&#xBB; bricht erste Rekorde</title>
+<link>http://www.20min.ch/people/international/story/15275780</link>
+<description>Der Superhelden-Film legt einen Superstart hin, Chance the Rapper hat geheiratet &#x2013; und weitere News aus der Welt der Stars.</description>
+<guid isPermaLink="true">http://www.20min.ch/people/international/story/15275780</guid>
+<pubDate>Mon, 11 Mar 2019 11:38:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/373fd5/T470,230/images/content/1/5/2/15275780/6006/teaserbreit.jpg" />
+</item>
+<item>
+<title>Marc Benjamin im App-Check: &#xAB;Zuerst checke ich die News, dann das Konto&#xBB;</title>
+<link>http://www.20min.ch/entertainment/kino/story/19894791</link>
+<description>Der Basler Marc Benjamin (32) spielt in der Kom&#xF6;die &#xAB;Rate Your Date&#xBB; einen Dating-App-Entwickler. Wir haben mit ihm den privaten Smartphone-Check gemacht.</description>
+<guid isPermaLink="true">http://www.20min.ch/entertainment/kino/story/19894791</guid>
+<pubDate>Mon, 11 Mar 2019 04:38:11 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/69f3b6/T470,230/images/content/1/9/8/19894791/28/teaserbreit.jpg" />
+</item>
+<item>
+<title>Missbrauchsvorw&#xFC;rfe: Weiteres Sexvideo mit R. Kelly aufgetaucht</title>
+<link>http://www.20min.ch/people/international/story/25017921</link>
+<description>Ein Ehepaar hat eine alte VHS-Kassette gefunden. Darauf soll R. Kelly beim Missbrauch von Kindern zu sehen sein. Dieser weist die Vorw&#xFC;rfe zur&#xFC;ck.</description>
+<guid isPermaLink="true">http://www.20min.ch/people/international/story/25017921</guid>
+<pubDate>Mon, 11 Mar 2019 02:10:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/1a501d/T470,230/images/content/2/5/0/25017921/7/teaserbreit.jpg" />
+</item>
+<item>
+<title>Paid Post: 10 Gr&#xFC;nde f&#xFC;rs Casual Dating</title>
+<link>http://www.20min.ch/paidpost/erotik/story/30014900</link>
+<description>Wer heute noch tindert, ist selber schuld. H&#xF6;chste Zeit, endlich beim Casual Dating aufzuspringen. Noch Zweifel? Hier sind die Gr&#xFC;nde, sich schleunigst auf der Plattform TheCasualLounge umzusehen:</description>
+<guid isPermaLink="true">http://www.20min.ch/paidpost/erotik/story/30014900</guid>
+<pubDate>Wed, 6 Mar 2019 23:00:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/63113a/T470,230/images/content/3/0/0/30014900/13/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Starticket: Das h&#xF6;chstgelegene Musikfestival Europas</title>
+<link>http://www.20min.ch/entertainment/starticket/story/18325129</link>
+<description>Vom Mittag bis in die Morgenstunden sorgt das Zermatt Unplugged vom 9. bis 13. April 2019 f&#xFC;r ein breit gef&#xE4;chertes Musikangebot.</description>
+<guid isPermaLink="true">http://www.20min.ch/entertainment/starticket/story/18325129</guid>
+<pubDate>Mon, 11 Mar 2019 08:23:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/0a6fe2/T470,230/images/content/1/8/3/18325129/2/teaserbreit.jpg" />
+</item>
+<item>
+<title>Jetzt im Kino: Verehrt wie eine Superheldin</title>
+<link>http://www.20min.ch/entertainment/ascotelite/story/24530113</link>
+<description>&#xAB;On the Basis of Sex&#xBB;: Ein Film, wie er aktueller nicht sein k&#xF6;nnte. Jetzt im Kino.</description>
+<guid isPermaLink="true">http://www.20min.ch/entertainment/ascotelite/story/24530113</guid>
+<pubDate>Wed, 27 Feb 2019 23:00:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/8db6f3/T470,230/images/content/2/4/5/24530113/7/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>USA: Pfadi-Girls k&#xE4;mpfen f&#xFC;r Tampon-Schr&#xE4;nkli auf WCs</title>
+<link>https://www.friday-magazine.ch/articles/us-schuelerinnen-kaempfen-fuer-tampon-schraenkli-auf-wcs</link>
+<description>Dank einer Gruppe Pfadfinderinnen gibts an einer Schule im US-Staat Ohio nun ein Tamponschr&#xE4;nkli auf der Toilette &#x2013; selbst finanziert und selbst aufgebaut.</description>
+<pubDate>Mon, 11 Mar 2019 16:38:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/25839e/T470,230/images/content/2/0/3/20373268/1/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Paid Post: Graub&#xFC;ndens k&#xF6;stlichste Rollen</title>
+<link>https://www.friday-magazine.ch/fr/advertorials/rollen</link>
+<description>Dass die B&#xFC;ndner K&#xFC;che einen so ausgezeichneten Ruf geniesst, hat ganz sicher auch mit ihren Mangoldwickeln zu tun.</description>
+<pubDate>Thu, 7 Mar 2019 23:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/be9968/T470,230/images/content/2/3/6/23644644/3/teaserbreit.jpg" />
+</item>
+<item>
+<title>Freizeit: 7 Kultur-Happenings, auf die wir uns freuen</title>
+<link>https://www.friday-magazine.ch/articles/kultur-schweiz</link>
+<description>Die Netflix-Serie &#xAB;Glow&#xBB; geht in die dritte Runde, das Kunsthaus Z&#xFC;rich widmet sich mit einer Ausstellung dem Mond &#x2013; und f&#xFC;nf weitere Kultur-Highlights.
+
+</description>
+<pubDate>Mon, 11 Mar 2019 11:58:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/3c9c0e/T470,230/images/content/3/0/5/30592605/1/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Instagram-Hype: Die Rue Cr&#xE9;mieux in Paris soll gesperrt werden</title>
+<link>https://www.friday-magazine.ch/articles/rue-cremieux-instagram-gesperrt</link>
+<description>T&#xE4;glich &#xFC;berfluten Touris auf der Suche nach dem perfekten Instabild die Rue Cr&#xE9;mieux in Paris. Den Anwohnerinnen und Anwohnern reichts jetzt.</description>
+<pubDate>Mon, 11 Mar 2019 11:28:21 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/6e3e7a/T470,230/images/content/1/0/6/10667245/1/teaserbreit.jpg" />
+</item>
+<item>
+<title>Cover-up zu gewinnen: Wir suchen das h&#xE4;sslichste Tattoo der Schweiz!</title>
+<link>http://www.20min.ch/community/stories/story/21497675</link>
+<description>Hast du ein Tattoo, das du schon lange als Schandfleck empfindest? Dann schick uns ein Foto. Mit etwas Gl&#xFC;ck gewinnst du ein Cover-up von Randy Engelhard.</description>
+<guid isPermaLink="true">http://www.20min.ch/community/stories/story/21497675</guid>
+<pubDate>Mon, 11 Mar 2019 13:07:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/6434df/T470,230/images/content/2/1/4/21497675/16/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Schweizer Reiseabenteuer: Panos ist der erste Yuujou-Auserw&#xE4;hlte!</title>
+<link>http://www.20min.ch/community/stories/story/11942320</link>
+<description>30&#x27;000 Leute wollten Teil des Yuujou-Reiseexperiments sein. Jetzt stehen die f&#xFC;nf Gewinner fest. Panos darf sich als Erster auf das grosse Abenteuer freuen.</description>
+<guid isPermaLink="true">http://www.20min.ch/community/stories/story/11942320</guid>
+<pubDate>Mon, 11 Mar 2019 09:41:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/ccf71d/T470,230/images/content/1/1/9/11942320/25/teaserbreit.jpg" />
+</item>
+<item>
+<title>&#xAB;Chr&#xFC;sim&#xFC;si&#xBB;: Wir lieben diese Dialektw&#xF6;rter!</title>
+<link>http://www.20min.ch/community/stories/story/24494962</link>
+<description>Eine kleine Umfrage hat diese zw&#xF6;lf Dialektw&#xF6;rter als Favoriten der Redaktion ergeben. Welches Wort gef&#xE4;llt dir am besten? Stimm ab!</description>
+<guid isPermaLink="true">http://www.20min.ch/community/stories/story/24494962</guid>
+<pubDate>Mon, 11 Mar 2019 04:40:04 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/d49f12/T470,230/images/content/2/4/4/24494962/6/teaserbreit.jpg" />
+</item>
+<item>
+<title>Foodie News &#x26; Trends: Als w&#xE4;ren Sie zum intimen Dinner-Date eingeladen</title>
+<link>http://www.20min.ch/kochenmitfooby/stories/story/21063305</link>
+<description>Ein kulinarischer Audio-Podcast l&#xE4;sst Sie am Tisch M&#xE4;uschen spielen. Das und weitere News aus der Welt der Kulinarik.</description>
+<guid isPermaLink="true">http://www.20min.ch/kochenmitfooby/stories/story/21063305</guid>
+<pubDate>Fri, 8 Mar 2019 12:00:55 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/2af0d5/T470,230/images/content/2/1/0/21063305/160/teaserbreit.jpg" />
+</item>
+<item>
+<title>Spaghetti-Donut und Co.: Die abgefahrensten Food-Trends aus New York</title>
+<link>http://www.20min.ch/kochenmitfooby/stories/story/13480709</link>
+<description>Spaghetti-Donuts, Sushi zum Selber-Fischen oder Raindrop Cake. Das gibt es nur im Big Apple. </description>
+<guid isPermaLink="true">http://www.20min.ch/kochenmitfooby/stories/story/13480709</guid>
+<pubDate>Fri, 8 Mar 2019 10:50:27 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/1bebd1/T470,230/images/content/1/3/4/13480709/6/teaserbreit.jpg" />
+</item>
+<item>
+<title>Eat this!: Eiweiss ist doch kein Allheilmittel</title>
+<link>http://www.20min.ch/bodyandsoul/stories/story/12603659</link>
+<description>Proteine liegen schon l&#xE4;nger im Trend. Sie gelten als Muskelbooster und Fettkiller. Doch sind sie das wirklich?</description>
+<guid isPermaLink="true">http://www.20min.ch/bodyandsoul/stories/story/12603659</guid>
+<pubDate>Sat, 9 Mar 2019 14:06:08 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/172956/T470,230/images/content/1/2/6/12603659/15/teaserbreit.jpg" />
+</item>
+<item>
+<title>Sula fragt: Ist Proteinbrot nun Dick- oder Schlankmacher?</title>
+<link>http://www.20min.ch/bodyandsoul/stories/story/10065104</link>
+<description>Eiweissbrot ist aus Regalen und Ern&#xE4;hrungsblogs nicht mehr wegzudenken. Hit oder Hype? Diana Studerus mit Antworten.</description>
+<guid isPermaLink="true">http://www.20min.ch/bodyandsoul/stories/story/10065104</guid>
+<pubDate>Wed, 6 Mar 2019 16:42:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/d84a33/T470,230/images/content/1/0/0/10065104/14/teaserbreit.jpg" />
+</item>
+<item>
+<title>Erfolgsgeschichten: Diese Frau stemmt 100 Kilogramm</title>
+<link>http://www.20min.ch/bodyandsoul/stories/story/15480450</link>
+<description>Erell Topic hat ihren Essst&#xF6;rungen den R&#xFC;cken gekehrt. K&#xF6;rper- und Selbstwertgef&#xFC;hl hat sie mit Krafttraining wiedergewonnen. Die Erfolgsgeschichte der 31-J&#xE4;hrigen.</description>
+<guid isPermaLink="true">http://www.20min.ch/bodyandsoul/stories/story/15480450</guid>
+<pubDate>Mon, 4 Mar 2019 20:00:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/1a9f9b/T470,230/images/content/1/5/4/15480450/21/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Maximalismus: Das sind die buntesten Zimmer auf Instagram</title>
+<link>http://www.20min.ch/wohnen/schlafzimmer/story/16483532</link>
+<description>Der n&#xFC;chterne Einrichtungsstil bekommt Gegenwind. Auf Instagram und Co. werden Farben bereits mit der grossen Kelle angerichtet. </description>
+<guid isPermaLink="true">http://www.20min.ch/wohnen/schlafzimmer/story/16483532</guid>
+<pubDate>Mon, 11 Mar 2019 20:15:31 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/d90744/T470,230/images/content/1/6/4/16483532/12/teaserbreit.jpg" />
+</item>
+<item>
+<title>7 Millionen Franken: Harry Styles wird seine Villa einfach nicht los</title>
+<link>http://www.20min.ch/wohnen/wohnzimmer/story/13657454</link>
+<description>Seit &#xFC;ber zweieinhalb Jahren versucht Popstar Harry Styles seine Villa zu loszuwerden. Ohne Erfolg. Nun droht ein Riesenverlust.</description>
+<guid isPermaLink="true">http://www.20min.ch/wohnen/wohnzimmer/story/13657454</guid>
+<pubDate>Sat, 9 Mar 2019 14:41:26 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/6fa6cd/T470,230/images/content/1/3/6/13657454/9/teaserbreit.jpg" />
+</item>
+<item>
+<title>Kanada : Die Geisterh&#xE4;user von Prince Edward Island</title>
+<link>http://www.20min.ch/homes/stories/story/25769737</link>
+<description>Wenn Sie ein Fan von Gruselgeschichten und Horrorfilmen sind, sollten Sie &#xFC;ber einen Trip nach Prince Edward Island nachdenken.</description>
+<guid isPermaLink="true">http://www.20min.ch/homes/stories/story/25769737</guid>
+<pubDate>Sun, 10 Mar 2019 14:29:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/2a5e54/T470,230/images/content/2/5/7/25769737/6/teaserbreit.jpg" />
+</item>
+<item>
+<title>Beauty-Hacks: Sch&#xF6;nheit aus dem K&#xFC;hlschrank</title>
+<link>http://www.20min.ch/homes/stories/story/15492114</link>
+<description>Selbstgemachte Beautyprodukte sind nicht nur g&#xFC;nstig, sie sind auch schnell hergestellt &#x2013; und man weiss, was darin steckt. </description>
+<guid isPermaLink="true">http://www.20min.ch/homes/stories/story/15492114</guid>
+<pubDate>Fri, 8 Mar 2019 20:30:43 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/03e821/T470,230/images/content/1/5/4/15492114/11/teaserbreit.jpg" />
+</item>
+<item>
+<title>Auto-Salon Genf 2019: Etwas f&#xFC;rs Ego</title>
+<link>http://www.20min.ch/motor/autosalon/story/12175156</link>
+<description>Das deutsche Startup e.GO hat bereits erfolgreich Elektrofahrzeuge auf den Markt gebracht. In Genf schaut das Team von Professor Schuh nach vorne.</description>
+<guid isPermaLink="true">http://www.20min.ch/motor/autosalon/story/12175156</guid>
+<pubDate>Sun, 10 Mar 2019 11:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/0e4e2f/T470,230/images/content/1/2/1/12175156/8/teaserbreit.jpg" />
+</item>
+<item>
+<title>One More Thing: Dieser Hyundai geht schon mal die W&#xE4;nde hoch</title>
+<link>http://www.20min.ch/motor/news/story/10385560</link>
+<description>Eine abgefahrene Sonderversion? Ein W&#xFC;stenrenner? Ein Flugger&#xE4;t? Die ramp-Redaktion stellt jeden Sonntag ihre neuen Lieblinge der Woche in unserer Diashow vor.</description>
+<guid isPermaLink="true">http://www.20min.ch/motor/news/story/10385560</guid>
+<pubDate>Sun, 10 Mar 2019 10:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/51cef9/T470,230/images/content/1/0/3/10385560/178/teaserbreit.jpg" />
+</item>
+<item>
+<title>Huawei Mate X: &#xAB;Am Falthandy verdienen wir nichts&#xBB;</title>
+<link>http://www.20min.ch/digital/news/story/22657160</link>
+<description>Walter Ji, Europa-Chef von Huawei, erz&#xE4;hlt, wie das Mate X entstanden ist. Und warum er wohl ganz auf das Falthandy umsteigen wird.</description>
+<guid isPermaLink="true">http://www.20min.ch/digital/news/story/22657160</guid>
+<pubDate>Mon, 11 Mar 2019 15:25:08 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/e4933d/T470,230/images/content/2/2/6/22657160/64/teaserbreit.jpg" />
+</item>
+<item>
+<title>&#xAB;Dirt Rally 2.0&#xBB;: Hier gehts blindw&#xFC;tigen Rasern dreckig</title>
+<link>http://www.20min.ch/digital/games/story/23322293</link>
+<description>Das Rennspiel &#xAB;Dirt Rally 2.0&#xBB; ist nicht einfach zu meistern. Trotzdem packt das brillant gemachte Spiel. </description>
+<guid isPermaLink="true">http://www.20min.ch/digital/games/story/23322293</guid>
+<pubDate>Sun, 10 Mar 2019 19:19:37 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/5a01a1/T470,230/images/content/2/3/3/23322293/6/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Paid Post: Mit schlanker Figur in den Fr&#xFC;hling!</title>
+<link>http://www.20min.ch/schweiz/zuerich/sponsored/story/21783352</link>
+<description>Der Fr&#xFC;hling steht vor der T&#xFC;r und Sie m&#xF6;chten sich wieder fit und beweglich f&#xFC;hlen? Jetzt profitieren Sie von bis zu 50 Prozent Rabatt.</description>
+<guid isPermaLink="true">http://www.20min.ch/schweiz/zuerich/sponsored/story/21783352</guid>
+<pubDate>Thu, 7 Mar 2019 23:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/7ac4c5/T470,230/images/content/2/1/7/21783352/24/teaserbreit.jpg" />
+</item>
+<item>
+<title>Free Lives: Die Game-Exzentriker mit dem Penis-Spiel</title>
+<link>http://www.20min.ch/digital/games/story/16206941</link>
+<description>Mit &#xAB;Broforce&#xBB; wurde das s&#xFC;dafrikanische Studio Free Lives ber&#xFC;hmt. Jetzt ist das Studio mit &#xAB;Genital Jousting&#xBB; f&#xFC;r einen IGF-Award nominiert.</description>
+<guid isPermaLink="true">http://www.20min.ch/digital/games/story/16206941</guid>
+<pubDate>Sat, 9 Mar 2019 13:06:40 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/481a26/T470,230/images/content/1/6/2/16206941/16/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Langsame Landung: &#xAB;Schlimmster Fehler, der bei &#x2039;Fortnite&#x203A; passiert ist&#xBB;</title>
+<link>http://www.20min.ch/digital/news/story/31496362</link>
+<description>Der Start der Season 8 bei &#xAB;Fortnite&#xBB; hatte nicht nur gute Seiten. Es hat sich ein Fehler im Spiel eingeschlichen, der die Spieler nervt.</description>
+<guid isPermaLink="true">http://www.20min.ch/digital/news/story/31496362</guid>
+<pubDate>Sat, 9 Mar 2019 07:38:37 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/98e53c/T470,230/images/content/3/1/4/31496362/10/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Ansteckungsgefahr: Diphtherie-&#xE4;hnlicher Erreger bei Igeln entdeckt</title>
+<link>http://www.20min.ch/wissen/news/story/26414563</link>
+<description>Igel sind herzig, k&#xF6;nnen aber auch zur Gesundheitsgefahr werden. Und das nicht nur, weil sie mit ihren Stacheln Zecken in die St&#xE4;dte bringen.</description>
+<guid isPermaLink="true">http://www.20min.ch/wissen/news/story/26414563</guid>
+<pubDate>Mon, 11 Mar 2019 20:49:53 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/08f90e/T470,230/images/content/2/6/4/26414563/29/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Sponsored: Warum uns Naturbilder kreativer machen</title>
+<link>http://www.20min.ch/native/stories/story/13612851</link>
+<description>Neue Studien aus der Hirnforschung belegen, dass uns kurze Pausen und das Betrachten von Naturpanoramen geistig leistungsf&#xE4;higer machen. </description>
+<guid isPermaLink="true">http://www.20min.ch/native/stories/story/13612851</guid>
+<pubDate>Wed, 6 Mar 2019 09:25:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/34e8ff/T470,230/images/content/1/3/6/13612851/22/teaserbreit.jpg" />
+</item>
+<item>
+<title>Meerwalnuss: Kennst du das Tier mit dem Verschwinde-Anus?</title>
+<link>http://www.20min.ch/wissen/news/story/13351252</link>
+<description>So unbekannt diese Quallenart ist, so faszinierend ist sie auch. Zum Beispiel taucht ihr Anus nur dann auf, wenn sie etwas loswerden muss. </description>
+<guid isPermaLink="true">http://www.20min.ch/wissen/news/story/13351252</guid>
+<pubDate>Sat, 9 Mar 2019 20:59:50 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/8b1bba/T470,230/images/content/1/3/3/13351252/25/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Saubere Energie: Chinas k&#xFC;nstliche Sonne ist heisser als das Original</title>
+<link>http://www.20min.ch/wissen/news/story/13882599</link>
+<description>Mit einer Kernfusion haben chinesische Forscher Temperaturen erreicht, die sechsmal h&#xF6;her als auf der Sonne sind.</description>
+<guid isPermaLink="true">http://www.20min.ch/wissen/news/story/13882599</guid>
+<pubDate>Thu, 7 Mar 2019 20:27:13 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/664231/T470,230/images/content/1/3/8/13882599/5/teaserbreit.jpg" />
+</item>
+<item>
+<title>Quiz: Erkennst du die Airline an der Heckflosse?</title>
+<link>http://www.20min.ch/leben/reisen/story/11408829</link>
+<description>Kannst du die Fluggesellschaft anhand des Seitenleitwerks bestimmen? Beweise im Quiz, wie gut du dich in der Welt der Luftfahrt auskennst!</description>
+<guid isPermaLink="true">http://www.20min.ch/leben/reisen/story/11408829</guid>
+<pubDate>Fri, 8 Mar 2019 19:06:31 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/916743/T470,230/images/content/1/1/4/11408829/4/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Fliegen mit Fido: Den Hund als Fracht aufgeben? Lieber nicht!</title>
+<link>http://www.20min.ch/leben/reisen/story/13380158</link>
+<description>F&#xFC;r Hunde bedeutet ein Flug purer Stress. Bei Kurznasen wie Bulldoggen oder M&#xF6;psen kann der Transport ausserdem schnell gef&#xE4;hrlich werden. </description>
+<guid isPermaLink="true">http://www.20min.ch/leben/reisen/story/13380158</guid>
+<pubDate>Wed, 6 Mar 2019 12:09:33 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/73b557/T470,230/images/content/1/3/3/13380158/3/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Japanblog: Daran erkennst du ein gutes Izakaya-Lokal</title>
+<link>http://www.20min.ch/leben/reisen/story/31530585</link>
+<description>Izakaya, die japanische Beiz, ist gem&#xFC;tlich, laut und wahnsinnig lecker. Unsere Japanbloggerin gibt dir Tipps f&#xFC;r einen Besuch.</description>
+<guid isPermaLink="true">http://www.20min.ch/leben/reisen/story/31530585</guid>
+<pubDate>Mon, 4 Mar 2019 12:09:03 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/de8160/T470,230/images/content/3/1/5/31530585/6/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Zug fahren in Indien: Was Sie verpassen, wenn Sie die 1. Klasse buchen</title>
+<link>http://www.20min.ch/leben/reisen/story/23210374</link>
+<description>Der Golden Temple Mail ist ein Expresszug, in dem man als Tourist dem echten Indien so richtig nahe kommt.</description>
+<guid isPermaLink="true">http://www.20min.ch/leben/reisen/story/23210374</guid>
+<pubDate>Thu, 28 Feb 2019 08:44:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/8748f5/T470,230/images/content/2/3/2/23210374/38/teaserbreit.jpg" />
+</item>
+<item>
+<title>Paid Post: Oh, mein Gott &#x2013; der beste Orgasmus meines Lebens</title>
+<link>http://www.20min.ch/paidpost/erotik/story/22219008</link>
+<description>Orgasmus trifft Innovation. Der neue Frauenheld Womanizer Duo verf&#xFC;hrt mit einer doppelten Stimulation, die man unbedingt erlebt haben muss.</description>
+<guid isPermaLink="true">http://www.20min.ch/paidpost/erotik/story/22219008</guid>
+<pubDate>Mon, 11 Mar 2019 08:10:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/7408d5/T470,230/images/content/2/2/2/22219008/25/teaserbreit.jpg" />
+</item>
+<item>
+<title>Wie im Film: Pl&#xF6;tzlich Prinzessin in Rajasthan</title>
+<link>http://www.20min.ch/leben/reisen/story/27409726</link>
+<description>Das Samode Palace erinnert an Bollywood-Filme: &#xDC;berall Bling-Bling und Instagram-taugliche M&#xE4;rchenstimmung. Ein Muss f&#xFC;r Priyanka-Chopra-Fans.</description>
+<guid isPermaLink="true">http://www.20min.ch/leben/reisen/story/27409726</guid>
+<pubDate>Wed, 27 Feb 2019 20:08:55 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/9b3c70/T470,230/images/content/2/7/4/27409726/12/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Parkieren f&#xFC;r Dummys: Ladys, ist das echt euer Ernst?</title>
+<link>http://www.20min.ch/community/viral/story/18580604</link>
+<description>Weil das Parkieren nicht so richtig klappen will, versuchen diese Frauen, das Auto mit Muskelkraft in die L&#xFC;cke zu bef&#xF6;rdern.
+</description>
+<guid isPermaLink="true">http://www.20min.ch/community/viral/story/18580604</guid>
+<pubDate>Sun, 10 Mar 2019 10:15:26 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/269393/T470,230/images/content/1/8/5/18580604/10/teaserbreit.jpg" />
+</item>
+<item>
+<title>Flexible Vierbeiner: Hast du gewusst, dass Hunde so sitzen k&#xF6;nnen?</title>
+<link>http://www.20min.ch/community/stories/story/14179848</link>
+<description>Wie komisch und unbequem diese Vierbeiner rumh&#xE4;ngen, siehst du nicht jeden Tag. Oder ist dein Haustier etwa auch so beweglich?</description>
+<guid isPermaLink="true">http://www.20min.ch/community/stories/story/14179848</guid>
+<pubDate>Sun, 10 Mar 2019 07:10:14 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/968358/T470,230/images/content/1/4/1/14179848/8/teaserbreit.jpg" />
+</item>
+<item>
+<title>Schicksalsschlag: &#xAB;Deine Zwillinge haben Krebs&#xBB;</title>
+<link>http://www.20min.ch/community/viral/story/10397776</link>
+<description>Manchmal schl&#xE4;gt das Schicksal besonders hart zu. Wie im Fall der neugeborenen Zwillinge Eve und Ella. Ihre Mutter erz&#xE4;hlt.</description>
+<guid isPermaLink="true">http://www.20min.ch/community/viral/story/10397776</guid>
+<pubDate>Sat, 9 Mar 2019 20:59:06 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/be2edf/T470,230/images/content/1/0/3/10397776/10/teaserbreit.jpg" />
+</item>
+<item>
+<title>WTF: Hast du eine Ahnung, was hier abgeht?</title>
+<link>http://www.20min.ch/community/stories/story/29556262</link>
+<description>Dieses Video wirft sehr viele Fragen auf, die wir leider nicht beantworten k&#xF6;nnen. Vielleicht bist du ja schlauer als wir.</description>
+<guid isPermaLink="true">http://www.20min.ch/community/stories/story/29556262</guid>
+<pubDate>Sat, 9 Mar 2019 12:34:11 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/14c90d/T470,230/images/content/2/9/5/29556262/6/teaserbreit.jpg" />
+</item>
+<item>
+<title>Wettbewerb: Geniesse die letzten Tage auf der Piste!</title>
+<link>http://www.20min.ch/panorama/wettbewerbe/story/22173765</link>
+<description>Die Winter- und Ski-Saison neigt sich ihrem Ende zu. Verpasse nicht die letzte M&#xF6;glichkeit, die Jungfrau Region auf Brettern im Schnee zu erleben. Wir verlosen die letzten Tageskarten.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/wettbewerbe/story/22173765</guid>
+<pubDate>Tue, 5 Mar 2019 23:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/0548dd/T470,230/images/content/2/2/1/22173765/6/teaserbreit.jpg" />
+</item>
+<item>
+<title>Wettbewerb: Die Schweiz tanzt den Cashless</title>
+<link>http://www.20min.ch/panorama/wettbewerbe/story/12313691</link>
+<description>&#xAB;Cashless&#xBB; heisst der neue Signature Step, der gerade die Schweiz erobert. Unter dem Motto &#xAB;Mach den Cashless. Mach die Kohle&#xBB; l&#xE4;uft eine grosse Challenge. Studiere jetzt den Step ein, lade dein Video hoch und gewinne 1000 Franken.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/wettbewerbe/story/12313691</guid>
+<pubDate>Sun, 24 Feb 2019 23:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/97403d/T470,230/images/content/1/2/3/12313691/121/teaserbreit.jpg" />
+</item>
+<item>
+<title>Wettbewerb: Sag das Zauberwort und gewinne Premiere-Tickets!</title>
+<link>http://www.20min.ch/panorama/wettbewerbe/story/27959873</link>
+<description>Ein magisches Wort gen&#xFC;gt und Billy verwandelt sich in einen unbesiegbaren Superhelden. Gewinne hier Tickets f&#xFC;r die exklusive Vorpremiere des Films &#xAB;Shazam!&#xBB;.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/wettbewerbe/story/27959873</guid>
+<pubDate>Thu, 7 Mar 2019 23:00:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/3e693b/T470,230/images/content/2/7/9/27959873/58/teaserbreit.jpg" />
+</item>
+<item>
+<title>Wettbewerb: So kommst du auf James Arthurs G&#xE4;steliste</title>
+<link>http://www.20min.ch/panorama/wettbewerbe/story/14206428</link>
+<description>Samsung Galaxy feiert sein 10-Jahr-Jubil&#xE4;um. Und James Arthur gibt zu diesem Anlass ein exklusives Konzert &#x2013; Guest List only! Wie du Teil davon wirst, erf&#xE4;hrst du hier.</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/wettbewerbe/story/14206428</guid>
+<pubDate>Thu, 7 Mar 2019 23:00:00 GMT</pubDate>
+<enclosure url="http://static01.20min.ch/dyim/ac3e50/T470,230/images/content/1/4/2/14206428/72/teaserbreit.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Voting : Welche ist die sch&#xF6;nste Love-Story der Schweiz?</title>
+<link>http://www.20min.ch/panorama/wettbewerbe/story/18207909</link>
+<description>Diese Liebesgeschichten haben uns in richtige Fr&#xFC;hlingswallungen gebracht. Jetzt liegt es an dir: Stimme f&#xFC;r das sch&#xF6;nste P&#xE4;rchen des Jahres ab!</description>
+<guid isPermaLink="true">http://www.20min.ch/panorama/wettbewerbe/story/18207909</guid>
+<pubDate>Fri, 8 Mar 2019 10:30:00 GMT</pubDate>
+<enclosure type="image/jpeg" url="http://static01.20min.ch/dyim/593b70/T470,230/images/content/1/8/2/18207909/54/teaserbreit.jpg" />
+</item>
+</channel>
+</rss>
